@@ -9,8 +9,8 @@
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lele-sf&show_icons=true&theme=dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lele-sf&layout=compact&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lele-sf&show_icons=true&theme=dark" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lele-sf&layout=compact&theme=dark" width="360"/>
 </p>
 
 
