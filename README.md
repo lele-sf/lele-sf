@@ -7,10 +7,10 @@
         Currently learning JavaScript and enhancing my skills in web development.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/leticia-sf/">
+    <a href="https://www.linkedin.com/in/leticia-sf/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:leticiale2709@gmail.com">
+    <a href="mailto:leticiale2709@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" alt="Email">
     </a>
 </p>
@@ -22,12 +22,12 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.w3schools.com/sql/)
 
 ### Technologies & Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://www.w3.org/html/)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]([https://github.com/lele-sf](https://learn.microsoft.com/en-us/windows/))
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://learn.microsoft.com/en-us/windows/)
 
 <details>
 <p align="center">
@@ -48,6 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/lele-sf">
-    <img src="https://komarev.com/ghpvc/?username=lele-sf&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=lele-sf&color=blue&style=flat" />
   </a>
 </p>
+
