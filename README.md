@@ -1,34 +1,53 @@
-<h1 align="center">Hi 👋, I'm Letícia Fernandes</h1>
+<h1 align="center">Hi, guys!👋</h1>
 
-
-- 🌱 I'm currently learning JavaScript and enhancing my skills in web development.
-- 👀 I'm interested in continuous learning and exploring the latest advancements in technology.
-- 📫 You can reach me through my email at leticiale2709@gmail.com
-- 😄 My preferred pronouns are she/her.
-- ⚡ Fun fact: I'm an avid reader and I particularly enjoy fantasy and science fiction/historical novels.
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lele-sf&show_icons=true&theme=dark" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lele-sf&layout=compact&theme=dark" width="360"/>
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Letícia Fernandes.<br>
+        Currently learning JavaScript and enhancing my skills in web development.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/leticia-sf/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:leticiale2709@gmail.com">
+        <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" alt="Email">
+    </a>
 </p>
 
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.w3schools.com/sql/)
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+### Technologies & Frameworks
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
+
+### OS
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]([https://github.com/lele-sf](https://learn.microsoft.com/en-us/windows/))
+
+<details>
+<p align="center">
+  <a href="https://github.com/lele-sf">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lele-sf&theme=transparent" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+  <a href="https://github.com/lele-sf">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lele-sf&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/lele-sf">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lele-sf&theme=transparent" />
+  </a>
+  <a href="https://github.com/lele-sf">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lele-sf&layout=compact&hide_border=true&theme=transparent" />
+  </a>
 </p>
+</details>
 
+<p align="center">
+  <a href="https://github.com/lele-sf">
+    <img src="https://komarev.com/ghpvc/?username=lele-sf&color=blue&style=flat)" />
+  </a>
+</p>
