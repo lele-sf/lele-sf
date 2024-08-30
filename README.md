@@ -4,7 +4,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Letícia Fernandes.<br>
-        Currently learning JavaScript and enhancing my skills in web development.<br>
+        Currently focused on learning Java and enhancing my skills in back-end development.<br>
+        I have experience with Python, CI/CD automation, and recently transitioned to Linux.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/leticia-sf/" target="_blank" rel="noopener noreferrer">
@@ -18,6 +19,7 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.w3schools.com/sql/)
 
@@ -27,7 +29,8 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://learn.microsoft.com/en-us/windows/)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)](https://learn.microsoft.com/en-us/windows/)
 
 <details>
 <p align="center">
