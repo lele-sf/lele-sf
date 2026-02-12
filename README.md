@@ -2,7 +2,7 @@
 
 <p align="center">
 Backend Software Developer focused on Python, data processing and cloud-based systems.<br/>
-AWS Certified • ETL • REST APIs • CI/CD • Open Source enthusiast
+AWS Certified • ETL • REST APIs • CI/CD
 </p>
 
 <p align="center">
@@ -38,7 +38,6 @@ AWS Certified • ETL • REST APIs • CI/CD • Open Source enthusiast
 ---
 
 ### 🌱 Currently
-- Contributing to open source (Cumbuca Dev)
 - Improving backend and data engineering skills
 - Building well-documented, production-like projects
 
