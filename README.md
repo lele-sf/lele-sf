@@ -40,7 +40,7 @@ AWS Certified • ETL • REST APIs • CI/CD
 ### 🌱 Currently
 - Improving backend and data engineering skills
 - Building well-documented, production-like projects
-
+- Contributing to open source (Cumbuca Dev, Design Líquido)
 ---
 
 <details>
