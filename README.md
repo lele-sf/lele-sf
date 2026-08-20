@@ -47,6 +47,6 @@ AWS Certified • ETL • REST APIs • CI/CD
 <summary>📊 GitHub Stats</summary>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lele-sf&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lele-sf&layout=compact&theme=transparent" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lele-sf&layout=compact&theme=transparent" />
 </p>
 </details>
